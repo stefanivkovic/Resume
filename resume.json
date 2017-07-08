@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Stefan Ivkovic",
+    "label": "",
+    "picture": "",
+    "email": "stefanivkovic@gmail.com",
+    "phone": "+381600283844",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "Koste Abrasevica 16",
+      "postalCode": "18300",
+      "city": "Pirot",
+      "countryCode": "RS",
+      "region": "Serbia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "stefanivkovic",
+        "url": "https://github.com/stefanivkovic"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Happy Family Food",
+      "position": "Operating Executive",
+      "website": "",
+      "startDate": "2013-09-01",
+      "endDate": "2015-03-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "JP INC.",
+      "position": "Content Management",
+      "website": "Multiple Adult Based Websites",
+      "startDate": "2015-05-01",
+      "endDate": "2017-04-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Singidunum University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2009-10-01",
+      "endDate": "2013-10-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Vocational School of Computer Technology",
+      "area": "Computer Science and Tehnology",
+      "studyType": "High School",
+      "startDate": "2005-09-15",
+      "endDate": "2009-06-20",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "PHP",
+        " MySQL"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Begginer",
+      "keywords": [
+        "JAVA"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Serbian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Bulgarian",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
